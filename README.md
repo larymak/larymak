@@ -12,7 +12,7 @@
 - 💬 Ask me about anything in tech I bet I will answer 😂 
 - ⚡ Fun fact: I love photography, cooking, and coding
 - 🎸 Would love: To know how to play guitar and piano
-- 📝[Resume](**)
+- 📝[Resume]()
 
 
 ### Connect with me:
