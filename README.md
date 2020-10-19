@@ -1,6 +1,6 @@
 ![Development](https://pbs.twimg.com/profile_banners/918758862181806080/1603116450/600x200)
 
-### Hi there I'm Hillary - aka LaryMak 👋
+### Hi there I'm LaryMak 👋
 
 ## I'm a Developer, Python and Tech Enthuasist, I love to automate staffs!!
 
