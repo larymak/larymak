@@ -50,6 +50,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larymak&layout=compact)
 
 ## Examples of Work
+<img src="https://github.com/larymak/larymak/blob/main/EComm%20Website.gif" height="256" width="256" />
 
 <details>
 <summary>📈 My Github Stats</summary>
