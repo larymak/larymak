@@ -12,6 +12,7 @@
 - 💬 Ask me about anything in tech I bet I will answer 😂 
 - ⚡ Fun fact: I love photography, cooking, and coding
 - 🎸 Would love: To know how to play guitar and piano
+- ✍ I recently began blogging @ [Hashnode](https://larymak.hashnode.dev/), [Dev](https://dev.to/larymak), [FreeCode Camp](https://www.freecodecamp.org/news/author/larymak/)
 - 📝[Resume]()
 
 
