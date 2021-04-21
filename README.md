@@ -2,10 +2,10 @@
 
 ### Hi there I'm LaryMak 👋
 
-## I'm a Developer, Python and Tech Enthuasist, I love to automate staffs!!
+## I'm a Developer, Python and Tech Enthuasist, I love to automate staff!!
 
 
-- 🔭 I’m currently working on ... Python and React Projects
+- 🔭 I’m currently working on ... Python & Django, React Projects and OpenSource
 - 🌱 I’m currently learning ... everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with learning how to use OpenSource forums
