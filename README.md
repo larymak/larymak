@@ -55,8 +55,9 @@
 
 <details>
 <summary>📈 My Github Stats</summary>
-
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=larymak&show_icons=true&theme=radical" alt="larymak" />
+ 
+ ![Visitor Count](https://profile-counter.glitch.me/{larymak}/count.svg)
 
 </details>
 
