@@ -16,21 +16,20 @@
 - 📝[Resume]()
 
 
-### Connect with me:
+### Connect with me:  
 
-<img align="left" alt="NextGen Coder" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<a href="https://www.youtube.com/channel/UCs-2PrpdoZr08gnN0BlfUkw?view_as=subscriber">
-<img align="left" alt="NextGen Coder | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="https://twitter.com/larymak1">
-<img align="left" alt="NextGen Coder | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://linkedin.com/in/hillary-nyakundi-3a64b11ab">
-<img align="left" alt="NextGen Coder | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/_larymak/">
-<img align="left" alt="NextGen Coder | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
- </a>
+    <img align="left" alt="Hillary Nyakundi | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/larymak1">
+    <img align="left" alt="Hillary Nyakundi | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/nextgencoders/">
+    <img align="left" alt="Hillary Nyakundi | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a>
+  <a href="mailto:hillarynyk@gmail.com">
+    <img align="left" alt="Hillary Nyakundi | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
  
 <br />
 
@@ -49,9 +48,6 @@
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larymak&layout=compact)
-
-## Examples of Work
-<img src="https://github.com/larymak/larymak/blob/main/EComm%20Website.gif" height="256" width="256" />
 
 <details>
 <summary>📈 My Github Stats</summary>
