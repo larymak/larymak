@@ -2,7 +2,7 @@
 
 ### Hi there I'm LaryMak 👋
 
-## I'm a Developer, Python and Tech Enthuasist, I love to automate staff!!
+## I'm a Developer, Tech Enthuasist and Blogger, I love Automation Using Python!!
 
 
 - 🔭 I’m currently working on ... Python & Django, React Projects and OpenSource
