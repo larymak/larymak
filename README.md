@@ -1,18 +1,18 @@
-![Development](https://pbs.twimg.com/profile_banners/918758862181806080/1603116450/600x200)
+![Development](https://pbs.twimg.com/profile_banners/918758862181806080/1635675606/600x200)
 
-### Hi there I'm LaryMak 👋
+### Hi there 👋
 
-## I'm a Developer, Tech Enthuasist and Blogger, I love Automation Using Python!!
+## I'm a Growing Developer, Technical Writer ✍, Open-Source & Python ❤!
 
 
-- 🔭 I’m currently working on ... Python & Django, React Projects and OpenSource
-- 🌱 I’m currently learning ... everything 🤣
+- 🔭 I’m currently working on ... Python & Django, OpenSource
+- 🌱 I’m currently learning ... how to grow my brand 😊
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with learning how to use OpenSource forums
 - 💬 Ask me about anything in tech I bet I will answer 😂 
 - ⚡ Fun fact: I love photography, cooking, and coding
-- 🎸 Would love: To know how to play guitar and piano
-- ✍ I recently began blogging @ [Hashnode](https://larymak.hashnode.dev/), [Dev](https://dev.to/larymak), [FreeCode Camp](https://www.freecodecamp.org/news/author/larymak/)
+- 🎸 Would love: To know how to play guitar
+- ✍ Read my articles @ [Hashnode](https://larymak.hashnode.dev/), [Dev](https://dev.to/larymak), [FreeCode Camp](https://www.freecodecamp.org/news/author/larymak/)
 - 📝[Resume]()
 
 
