@@ -25,9 +25,9 @@
 <a href="mailto:hillarynyk@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
 </p>
 
-
 ### Languages and Tools:
 
+<p>
 <img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> 
 <img src="https://img.icons8.com/color/35/000000/css3.png"/> 
 <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> 
@@ -36,6 +36,7 @@
 <img src="https://img.icons8.com/color/35/000000/git.png"/> 
 <img src="https://img.icons8.com/color/35/000000/github.png"/> 
 <img src="https://img.icons8.com/cute-clipart/35/000000/canva.png"/>
+</p>
 
 ### <h2 align="center">Contribution Graph📚</h2>
 
