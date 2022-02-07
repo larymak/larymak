@@ -24,9 +24,7 @@
 <a href="https://www.instagram.com/nextgencoders/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
 <a href="mailto:hillarynyk@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
 </p>
-  
- 
-<br />
+
 
 ### Languages and Tools:
 
@@ -36,9 +34,8 @@
 <img src="https://img.icons8.com/color/35/000000/python.png">
 <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/35/000000/git.png"/> 
-<img src="https://img.icons8.com/color/35/000000/github.png"/> <img src="https://img.icons8.com/cute-clipart/35/000000/canva.png"/>
-
-<br />
+<img src="https://img.icons8.com/color/35/000000/github.png"/> 
+<img src="https://img.icons8.com/cute-clipart/35/000000/canva.png"/>
 
 ### <h2 align="center">Contribution Graph📚</h2>
 
@@ -52,7 +49,7 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=larymak&theme=highcontrast&hide_border=true" alt="larymak" />
 </p>
  
-  ### <h2 align="center">Visitor Count</h2>
+### <h2 align="center">Visitor Count</h2>
  <p align="center"> 
  <img src="https://profile-counter.glitch.me/{larymak}/count.svg" alt="larymak" />
 </p>
@@ -68,11 +65,13 @@
 - [Python Beginners Guide - Functions](https://dev.to/larymak/python-beginners-guide-functions-2joc)
 <!-- BLOG:END -->
 
-## Other links🔗
+## <h2 align="center">Other links🔗</h2>
 
+<p align="center"> 
 <a href="https://sweetcode.io/author/hnyakundi/" target="_blank"> <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/48/000000/external-blog-graphic-design-justicon-lineal-color-justicon.png"/></a>
 <a href="https://aviyel.com/@hillarynyk" target="_blank"> <img src="https://img.icons8.com/external-xnimrodx-blue-xnimrodx/48/000000/external-article-marketing-xnimrodx-blue-xnimrodx.png"/>
 <a href="https://anchor.fm/hillary-nyakundi" target="_blank"> <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/48/000000/external-podcast-social-media-vitaliy-gorbachev-blue-vitaly-gorbachev.png"/>
+</p>
 
 ### <h2 align="center">Support Me💰</h2>
 
