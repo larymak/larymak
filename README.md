@@ -1,4 +1,6 @@
+<p>
 <a href="https://twitter.com/larymak1" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/hillary-nyakundi/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+</p>
 
 ![Development](https://pbs.twimg.com/profile_banners/918758862181806080/1635675606/600x200)
 
