@@ -1,59 +1,81 @@
+<a href="https://twitter.com/larymak1" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/hillary-nyakundi/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+
 ![Development](https://pbs.twimg.com/profile_banners/918758862181806080/1635675606/600x200)
 
 ### Hi there 👋
 
 ## I'm a Growing Developer, Technical Writer ✍, Open-Source & Python ❤!
 
-
 - 🔭 I’m currently working on ... Python & Django, OpenSource
-- 🌱 I’m currently learning ... how to grow my brand 😊
+- 🌱 I’m currently learning ... Blockchain Development 😊
 - 👯 I’m looking to collaborate with other content creators
-- 🤔 I’m looking for help with learning how to use OpenSource forums
-- 💬 Ask me about anything in tech I bet I will answer 😂 
+- 💬 Ask me about anything in tech I bet I will answer 😂
 - ⚡ Fun fact: I love photography, cooking, and coding
 - 🎸 Would love: To know how to play guitar
 - ✍ Read my articles @ [Hashnode](https://larymak.hashnode.dev/), [Dev](https://dev.to/larymak), [FreeCode Camp](https://www.freecodecamp.org/news/author/larymak/)
-- 📝[Resume]()
+- 📝[Resume](Hillary_Nyakundi_Resume.pdf)
 
+### Connect with me:
 
-### Connect with me:  
-
-<a href="https://linkedin.com/in/hillary-nyakundi-3a64b11ab">
-    <img align="left" alt="Hillary Nyakundi | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/larymak1">
-    <img align="left" alt="Hillary Nyakundi | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/nextgencoders/">
-    <img align="left" alt="Hillary Nyakundi | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>
-  <a href="mailto:hillarynyk@gmail.com">
-    <img align="left" alt="Hillary Nyakundi | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
+<p align="left">  
+<a href="https://twitter.com/larymak1_" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
+<a href="https://linkedin.com/in/hillary-nyakundi" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
+<a href="https://www.youtube.com/c/TheAfricanDeveloper" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png"/></a>
+<a href="https://www.instagram.com/nextgencoders/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
+<a href="mailto:hillarynyk@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
+</p>
+  
  
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+<img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> 
+<img src="https://img.icons8.com/color/35/000000/css3.png"/> 
+<img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> 
+<img src="https://img.icons8.com/color/35/000000/python.png">
+<img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/35/000000/git.png"/> 
+<img src="https://img.icons8.com/color/35/000000/github.png"/> <img src="https://img.icons8.com/cute-clipart/35/000000/canva.png"/>
 
 <br />
-<br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larymak&layout=compact)
+### <h2 align="center">Contribution Graph📚</h2>
 
-<details>
-<summary>📈 My Github Stats</summary>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=larymak&show_icons=true&theme=radical" alt="larymak" />
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=larymak&theme=dracula&hide_border=true)
+
+## Stats summary📈
+
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=larymak&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="larymak" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=larymak&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="larymak" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=larymak&theme=highcontrast&hide_border=true" alt="larymak" />
+</p>
  
- ![Visitor Count](https://profile-counter.glitch.me/{larymak}/count.svg)
+  ### <h2 align="center">Visitor Count</h2>
+ <p align="center"> 
+ <img src="https://profile-counter.glitch.me/{larymak}/count.svg" alt="larymak" />
+</p>
 
-</details>
+## My Latest Blog Posts📖
 
+<!-- BLOG:START -->
+
+- [Intro to the Dockerfile Components](https://dev.to/larymak/intro-to-the-dockerfile-components-ap5)
+- [The JavaScript Switch Statement Explained with Examples](https://dev.to/larymak/the-javascript-switch-statement-explained-with-examples-5b8p)
+- [The Do's and Don'ts of Front-End Documentation](https://larymak.hashnode.dev/the-dos-and-donts-of-front-end-documentation)
+- [How to Write a Good README File for Your GitHub Project](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
+- [Python Beginners Guide - Functions](https://dev.to/larymak/python-beginners-guide-functions-2joc)
+<!-- BLOG:END -->
+
+## Other links🔗
+
+<a href="https://sweetcode.io/author/hnyakundi/" target="_blank"> <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/48/000000/external-blog-graphic-design-justicon-lineal-color-justicon.png"/></a>
+<a href="https://aviyel.com/@hillarynyk" target="_blank"> <img src="https://img.icons8.com/external-xnimrodx-blue-xnimrodx/48/000000/external-article-marketing-xnimrodx-blue-xnimrodx.png"/>
+<a href="https://anchor.fm/hillary-nyakundi" target="_blank"> <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/48/000000/external-podcast-social-media-vitaliy-gorbachev-blue-vitaly-gorbachev.png"/>
+
+### <h2 align="center">Support Me💰</h2>
+
+ <p align="center"> 
+<a href="https://www.buymeacoffee.com/lary" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a>
+</p>
