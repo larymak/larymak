@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I love photography, cooking, and coding
 - 🎸 Would love: To know how to play guitar
 - ✍ Read my articles @ [Hashnode](https://larymak.hashnode.dev/), [Dev](https://dev.to/larymak), [FreeCode Camp](https://www.freecodecamp.org/news/author/larymak/)
-- 📝[Resume](Hillary_Nyakundi_Resume.pdf)
+- 📝[Resume](#)
 
 ### Connect with me:
 
