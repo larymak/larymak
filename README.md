@@ -7,12 +7,12 @@
 ## I'm a Growing Developer, Technical Writer ✍, Open-Source & Python ❤!
 
 - 🔭 I’m currently working on ... Python & Django, OpenSource
-- 🌱 I’m currently learning ... Blockchain Development 😊
+- 🌱 I’m currently learning ... UI/UX Design 😊
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about anything in tech I bet I will answer 😂
 - ⚡ Fun fact: I love photography, cooking, and coding
 - 🎸 Would love: To know how to play guitar
-- ✍ Read my articles @ [Hashnode](https://larymak.hashnode.dev/), [Dev](https://dev.to/larymak), [FreeCode Camp](https://www.freecodecamp.org/news/author/larymak/)
+- ✍ Read my articles @ [Hashnode](https://larymak.hashnode.dev/), [Dev](https://dev.to/larymak), [FreeCode Camp](https://www.freecodecamp.org/news/author/larymak/), [SweetCode](https://sweetcode.io/author/hnyakundi/)
 - 📝[Resume](#)
 
 ### Connect with me:
