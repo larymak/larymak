@@ -38,21 +38,12 @@
 <img src="https://img.icons8.com/cute-clipart/35/000000/canva.png"/>
 </p>
 
-### <h2 align="center">Contribution Graph📚</h2>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=larymak&theme=dracula&hide_border=true)
-
 ## Stats summary📈
 
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=larymak&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="larymak" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=larymak&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="larymak" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=larymak&theme=highcontrast&hide_border=true" alt="larymak" />
-</p>
- 
-### <h2 align="center">Visitor Count</h2>
- <p align="center"> 
- <img src="https://profile-counter.glitch.me/{larymak}/count.svg" alt="larymak" />
 </p>
 
 ## My Latest Blog Posts📖
