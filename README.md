@@ -52,9 +52,8 @@ Here's a list of my latest articles:
 
 <!-- ARTICLES:START -->
 
-
-
 <!-- ARTICLES:END -->
+
 
 ## <h2 align="center">Other links🔗</h2>
 
