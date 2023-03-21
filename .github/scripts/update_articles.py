@@ -18,26 +18,22 @@ def get_articles():
 
 
 def update_readme(articles):
-    readme_file = "README.md"
-    article_section_start = "<!-- ARTICLES_START -->"
-    article_section_end = "<!-- ARTICLES_END -->"
+    placeholder = "<!-- ARTICLES:START -->\n\n<!-- ARTICLES:END -->"
 
-    with open(readme_file, "r") as f:
-        content = f.read()
-
-    new_content = []
-    for line in content.split("\n"):
-        if line.strip() == article_section_start:
-            break
-        new_content.append(line)
-
-    new_content.append(article_section_start)
+    article_md_list = []
     for article in articles:
-        new_content.append(f"- [{article['title']}]({article['url']})")
-    new_content.append(article_section_end)
+        article_md_list.append(f'- [{article["title"]}]({article["url"]})')
 
-    with open(readme_file, "w") as f:
-        f.write("\n".join(new_content))
+    articles_md = "\n".join(article_md_list)
+
+    with open("README.md", "r") as readme:
+        content = readme.read()
+
+    new_content = content.replace(
+        placeholder, f"<!-- ARTICLES:START -->\n\n{articles_md}\n\n<!-- ARTICLES:END -->")
+
+    with open("README.md", "w") as readme:
+        readme.write(new_content)
 
 
 if __name__ == "__main__":
