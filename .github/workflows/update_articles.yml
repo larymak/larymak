@@ -1,0 +1,37 @@
+name: Update Articles
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs twice daily; customize the schedule as needed
+
+  workflow_dispatch:
+
+jobs:
+  update_articles:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests feedparser # Add any other necessary libraries
+
+      - name: Update articles
+        run: |
+          python ./.github/scripts/update_articles.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "larymak"
+          git config user.email "larykush@gmail.com"
+          git add README.md
+          git commit -m "Update articles" || true # Continue even if there are no changes
+          git push
