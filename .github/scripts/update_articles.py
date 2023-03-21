@@ -3,7 +3,7 @@ import feedparser  # If using RSS
 
 
 def get_articles():
-    rss_url = "https://www.freecodecamp.org/news/author/larymak/rss/"
+    rss_url = "https://feedly.com/i/subscription/feed/https://www.freecodecamp.org/news/author/larymak/rss/"
     feed = feedparser.parse(rss_url)
 
     articles = []
