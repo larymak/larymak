@@ -46,10 +46,12 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=larymak&theme=highcontrast&hide_border=true" alt="larymak" />
 </p>
 
-## My Latest Blog Posts📖
+## 📝 Latest Articles
 
-<!-- BLOG:START -->
+<!-- ARTICLES_START -->
+<!-- ARTICLES_END -->
 
+<!-- BLOG:START
 - [Intro to the Dockerfile Components](https://dev.to/larymak/intro-to-the-dockerfile-components-ap5)
 - [The JavaScript Switch Statement Explained with Examples](https://dev.to/larymak/the-javascript-switch-statement-explained-with-examples-5b8p)
 - [The Do's and Don'ts of Front-End Documentation](https://larymak.hashnode.dev/the-dos-and-donts-of-front-end-documentation)
