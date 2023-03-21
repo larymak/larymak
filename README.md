@@ -48,6 +48,7 @@
 
 ## 📝 Latest Articles
 
+<<<<<<< HEAD
 Here's a list of my latest articles:
 
 <!-- ARTICLES:START -->
@@ -67,3 +68,7 @@ Here's a list of my latest articles:
  <p align="center"> 
 <a href="https://www.buymeacoffee.com/lary" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a>
 </p>
+=======
+<!-- ARTICLES_START -->
+<!-- ARTICLES_END -->
+>>>>>>> 02f05b6e23d76465734e017e1028ed6cde154eb6
