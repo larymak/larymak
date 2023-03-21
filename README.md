@@ -48,16 +48,11 @@
 
 ## 📝 Latest Articles
 
-<!-- ARTICLES_START -->
-<!-- ARTICLES_END -->
+Here's a list of my latest articles:
 
-<!-- BLOG:START
-- [Intro to the Dockerfile Components](https://dev.to/larymak/intro-to-the-dockerfile-components-ap5)
-- [The JavaScript Switch Statement Explained with Examples](https://dev.to/larymak/the-javascript-switch-statement-explained-with-examples-5b8p)
-- [The Do's and Don'ts of Front-End Documentation](https://larymak.hashnode.dev/the-dos-and-donts-of-front-end-documentation)
-- [How to Write a Good README File for Your GitHub Project](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
-- [Python Beginners Guide - Functions](https://dev.to/larymak/python-beginners-guide-functions-2joc)
-<!-- BLOG:END -->
+<!-- ARTICLES:START -->
+
+<!-- ARTICLES:END -->
 
 ## <h2 align="center">Other links🔗</h2>
 
