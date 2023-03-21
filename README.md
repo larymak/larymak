@@ -52,7 +52,11 @@ Here's a list of my latest articles:
 
 <!-- ARTICLES:START -->
 
-
+- [Why Python is Good for Beginners – and How to Start Learning It](https://www.freecodecamp.org/news/why-learn-python-and-how-to-get-started/)
+- [Secure User Authentication Methods – 2FA, Biometric, and Passwordless Login Explained](https://www.freecodecamp.org/news/user-authentication-methods-explained/)
+- [API Testing Best Practices – How to Test APIs for Beginners](https://www.freecodecamp.org/news/rules-of-api-testing-for-beginners/)
+- [GitHub Search Tips – How to Search Issues, Repos, and More Effectively on GitHub](https://www.freecodecamp.org/news/github-search-tips/)
+- [OOP Meaning – What is Object-Oriented Programming?](https://www.freecodecamp.org/news/what-is-object-oriented-programming/)
 
 <!-- ARTICLES:END -->
 
