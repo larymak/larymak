@@ -50,25 +50,3 @@
 
 <!-- ARTICLES_START -->
 <!-- ARTICLES_END -->
-
-<!-- BLOG:START
-- [Intro to the Dockerfile Components](https://dev.to/larymak/intro-to-the-dockerfile-components-ap5)
-- [The JavaScript Switch Statement Explained with Examples](https://dev.to/larymak/the-javascript-switch-statement-explained-with-examples-5b8p)
-- [The Do's and Don'ts of Front-End Documentation](https://larymak.hashnode.dev/the-dos-and-donts-of-front-end-documentation)
-- [How to Write a Good README File for Your GitHub Project](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
-- [Python Beginners Guide - Functions](https://dev.to/larymak/python-beginners-guide-functions-2joc)
-<!-- BLOG:END -->
-
-## <h2 align="center">Other links🔗</h2>
-
-<p align="center"> 
-<a href="https://sweetcode.io/author/hnyakundi/" target="_blank"> <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/48/000000/external-blog-graphic-design-justicon-lineal-color-justicon.png"/></a>
-<a href="https://aviyel.com/@hillarynyk" target="_blank"> <img src="https://img.icons8.com/external-xnimrodx-blue-xnimrodx/48/000000/external-article-marketing-xnimrodx-blue-xnimrodx.png"/>
-<a href="https://anchor.fm/hillary-nyakundi" target="_blank"> <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/48/000000/external-podcast-social-media-vitaliy-gorbachev-blue-vitaly-gorbachev.png"/>
-</p>
-
-### <h2 align="center">Support Me💰</h2>
-
- <p align="center"> 
-<a href="https://www.buymeacoffee.com/lary" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a>
-</p>
