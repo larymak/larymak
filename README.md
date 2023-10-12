@@ -1,16 +1,14 @@
 <center><a href="https://twitter.com/larymak1" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="80px" width="80px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/hillary-nyakundi/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter"></a></center>
 
-[![@larymak's Holopin board](https://holopin.me/larymak)](https://holopin.io/@larymak)
-
 ### Hi there 👋
 
-## I'm a passionate Technical Writer ✍ and visionary, dedicated to leading and inspiring upcoming talents and developers. I love being part of minds that give back to the community. Open-Source contribution and community development are my greatest passion!
+## I'm a passionate Technical Writer ✍ and visionary, dedicated to leading and inspiring upcoming talents and developers. I love being part of minds that give back to the community. Open-source contribution and community development are my greatest passion!
 
 - 🔭 I’m currently working on ... Python & Django, OpenSource
-- 🌱 I’m currently learning ... UI/UX Design 😊
+- 🌱 I’m currently learning ... Cyber Security 😊
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about anything in tech I bet I will answer 😂
-- ⚡ Fun fact: I love photography, cooking, and coding
+- ⚡ Fun fact: I love photography, cooking, and traveling
 - 🎸 Would love: To know how to play guitar
 - ✍ Read my articles @ [Hashnode](https://larymak.hashnode.dev/), [Dev](https://dev.to/larymak), [FreeCode Camp](https://www.freecodecamp.org/news/author/larymak/), [SweetCode](https://sweetcode.io/author/hnyakundi/)
 - 📝[Resume](#)
