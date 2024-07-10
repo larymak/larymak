@@ -43,32 +43,3 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=larymak&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="larymak" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=larymak&theme=highcontrast&hide_border=true" alt="larymak" />
 </p>
-
-## 📝 Latest Articles
-
-Here's a list of my latest articles:
-
-<!-- ARTICLES:START -->
-
-- [Why Python is Good for Beginners – and How to Start Learning It](https://www.freecodecamp.org/news/why-learn-python-and-how-to-get-started/)
-- [Secure User Authentication Methods – 2FA, Biometric, and Passwordless Login Explained](https://www.freecodecamp.org/news/user-authentication-methods-explained/)
-- [API Testing Best Practices – How to Test APIs for Beginners](https://www.freecodecamp.org/news/rules-of-api-testing-for-beginners/)
-- [GitHub Search Tips – How to Search Issues, Repos, and More Effectively on GitHub](https://www.freecodecamp.org/news/github-search-tips/)
-- [OOP Meaning – What is Object-Oriented Programming?](https://www.freecodecamp.org/news/what-is-object-oriented-programming/)
-
-<!-- ARTICLES:END -->
-
-
-## <h2 align="center">Other links🔗</h2>
-
-<p align="center"> 
-<a href="https://sweetcode.io/author/hnyakundi/" target="_blank"> <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/48/000000/external-blog-graphic-design-justicon-lineal-color-justicon.png"/></a>
-<a href="https://aviyel.com/@hillarynyk" target="_blank"> <img src="https://img.icons8.com/external-xnimrodx-blue-xnimrodx/48/000000/external-article-marketing-xnimrodx-blue-xnimrodx.png"/>
-<a href="https://anchor.fm/hillary-nyakundi" target="_blank"> <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/48/000000/external-podcast-social-media-vitaliy-gorbachev-blue-vitaly-gorbachev.png"/>
-</p>
-
-### <h2 align="center">Support Me💰</h2>
-
- <p align="center"> 
-<a href="https://www.buymeacoffee.com/lary" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a>
-</p>
