@@ -8,7 +8,7 @@
 - 💬 Ask me about: Anything tech — I might just surprise you! 😂
 - ⚡ Fun fact: I’m into photography, cooking, and traveling
 - 🎸 Bucket list goal: Learn how to play the guitar
-- ✍ Read my articles on: [Hashnode](https://larymak.hashnode.dev/), [Dev](https://dev.to/larymak), [FreeCode Camp](https://www.freecodecamp.org/news/author/larymak/), [SweetCode](https://sweetcode.io/author/hnyakundi/)
+- ✍ Read my articles on: [Hashnode](https://larymak.hashnode.dev/), [Dev](https://dev.to/larymak), [freeCodeCamp](https://www.freecodecamp.org/news/author/larymak/), [SweetCode](https://sweetcode.io/author/hnyakundi/)
 
 ### Connect with me:
 
